@@ -26,8 +26,6 @@
 
 ###
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahassan0&label=Profile%20views&color=0e75b6&style=flat" alt="sarahassan0" /> </p> -->
-
 
 </p>
 
@@ -36,7 +34,7 @@
 
 - 🎓 **[Information Technology Institute (ITI)](https://iti.gov.eg/iti/home) Graduate**
 
-- 🏫 **[ALX](https://www.alxafrica.com/) Software Engineering program student's at Holberton school**
+- 🏫 **[ALX](https://www.alxafrica.com/) Software Engineering Student at Holberton school**
 
 - 📝 I write technical articles on my spare time on medium [https://sarrahhassan.medium.com/](https://sarrahhassan.medium.com/)
 
